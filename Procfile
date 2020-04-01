@@ -1,1 +1,1 @@
-web: gunicorn exquis.wsgi --log-file 
+web: gunicorn exquis.wsgi --log-file -
